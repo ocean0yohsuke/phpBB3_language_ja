@@ -1,0 +1,14 @@
+Subject: 承認待ち記事の通知 - トピック "{TOPIC_TITLE}"
+
+{USERNAME} さん
+
+フォーラムサイト "{SITENAME}" に於いて
+トピック "{TOPIC_TITLE}" がモデレータの承認を必要としています。
+
+こちらからトピックをご確認いただけます:
+{U_VIEW_TOPIC}
+
+こちらからフォーラムをご確認いただけます:
+{U_FORUM}
+
+{EMAIL_SIG}

@@ -1,0 +1,11 @@
+Subject: 通報 [ PM ] の通知 - トピック "{TOPIC_TITLE}"
+
+{USERNAME} さん
+
+フォーラムサイト "{SITENAME}" に於いて
+"{AUTHOR_NAME}" さんが送信したプライベートメッセージ "{SUBJECT}" が通報されました。
+
+こちらから通報をご確認いただけます:
+{U_VIEW_REPORT}
+
+{EMAIL_SIG}

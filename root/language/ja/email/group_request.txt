@@ -1,0 +1,13 @@
+Subject: グループ参加の申請があります
+
+{USERNAME} さん
+
+フォーラムサイト "{SITENAME}" に於いて
+"{REQUEST_USERNAME}" さんが
+あなたのグループ "{GROUP_NAME}" に参加を申請しました。
+
+申請を承認または却下するにはこちらをクリックしてください:
+
+{U_PENDING}
+
+{EMAIL_SIG}

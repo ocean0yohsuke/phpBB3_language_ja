@@ -1,0 +1,23 @@
+
+{TO_USERNAME} さん
+
+このメールはフォーラムサイト "{SITENAME}" のお問い合わせページから送信されました。
+
+<!-- IF S_IS_REGISTERED -->
+以下のアカウントからのお問い合わせです
+ユーザー名: {FROM_USERNAME}
+メールアドレス: {FROM_EMAIL_ADDRESS}
+IPアドレス: {FROM_IP_ADDRESS}
+プロフィール: {U_FROM_PROFILE}
+<!-- ELSE -->
+ゲストからのお問い合わせです
+お名前: {FROM_USERNAME}
+メールアドレス: {FROM_EMAIL_ADDRESS}
+IPアドレス: {FROM_IP_ADDRESS}
+<!-- ENDIF -->
+
+
+以下がお問い合わせの内容です
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

@@ -1,0 +1,9 @@
+Subject: 通報は削除されました - 記事 "{POST_SUBJECT}"
+
+{USERNAME} さん
+
+フォーラムサイト "{SITENAME}" に於いて
+トピック "{TOPIC_TITLE}" の
+記事 "{POST_SUBJECT}" に対してあなたが行った通報がモデレータまたはフォーラムサイト管理人によって削除されました。
+
+{EMAIL_SIG}

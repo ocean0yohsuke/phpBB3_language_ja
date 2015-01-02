@@ -1,0 +1,14 @@
+Subject: 投稿記事が承認されました - 記事 "{POST_SUBJECT}"
+
+{USERNAME} さん
+
+フォーラムサイト "{SITENAME}" に於いて
+あなたが投稿した記事 "{POST_SUBJECT}" がモデレータまたはフォーラムサイト管理人によって承認されました。
+
+こちらから記事をご確認いただけます:
+{U_VIEW_POST}
+
+こちらからトピックをご確認いただけます:
+{U_VIEW_TOPIC}
+
+{EMAIL_SIG}
